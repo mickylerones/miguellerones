@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        prueba para borrar;
+        echo "prueba para borrar";
     ?>
 </body>
 </html>l
