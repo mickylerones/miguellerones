@@ -11,7 +11,11 @@
         echo "Hola mundo";
         echo "Esto va a ser el segundo commit";
         echo "TERCER COMMIT";
+<<<<<<< HEAD
         echo "QUINTO";
+=======
+        echo "DESDE EDIT COMPROBAMOS QUE LO ESCRITO DESDE EL REPOSITORIO ONLINE SE GUARDA TAMBIÉN EN LOCAL" 
+>>>>>>> 46bd512319f308360ee782fac288eb0cc8757747
     ?>
 </body>
 </html>
