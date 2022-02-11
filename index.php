@@ -11,7 +11,7 @@
         echo "Hola mundo";
         echo "Esto va a ser el segundo commit";
         echo "TERCER COMMIT";
-        echo "DESDE EDIT COMPROBAMOS QUE LO ESCRITO DESDE EL REPOSITORIO ONLINE SE GUARDA TAMBIÉN EN LOCAL" 
+        echo "DESDE EDIT COMPROBAMOS QUE LO ESCRITO DESDE EL REPOSITORIO ONLINE SE GUARDA TAMBIÉN EN LOCAL"; 
         echo "NUEVO";
     ?>
 </body>
